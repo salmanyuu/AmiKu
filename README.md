@@ -1,0 +1,2 @@
+# AmiKu
+Project 1
