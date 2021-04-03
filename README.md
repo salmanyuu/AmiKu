@@ -1,6 +1,8 @@
 # AmiKu
 Project 1 Room AmiKu
 
+#Source Code Room Amiku, Untuk download apk, silahkan download di main branch
+
 Oleh :
 
 Dinar Fitranti 1941432
