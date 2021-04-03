@@ -15,4 +15,4 @@ Salman Ahmad Fauzi 1941543
 
 note : lokasi .apk -> AmiKu-main\AmiKu\app\build\outputs\apk\debug
 
-untuk download bisa branch main atau master
+untuk download source code bisa branch main atau master
